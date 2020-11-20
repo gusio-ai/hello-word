@@ -1,2 +1,3 @@
 # hello-word
-baru mengenal koding
+
+hei kawan. saya menyukai program android dan saya ingin mempelajarinya. mohon bantuannya.
