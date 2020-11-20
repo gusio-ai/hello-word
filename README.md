@@ -1,2 +1,3 @@
 # hello-word
-baru mengenal koding
+baru mengenal koding.
+Semangat terus
